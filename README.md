@@ -90,12 +90,11 @@ Install my-project:
 
 ## Screenshots
 
-![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-1-scaled.jpg)
-![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-2-scaled.jpg)
-![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-3-scaled.jpg)
-![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-4-scaled.jpg)
-![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-5-scaled.jpg)
-![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-6-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/Redux-toolkit-projects-1-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/Redux-toolkit-projects-2-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/Redux-toolkit-projects-3-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/Redux-toolkit-projects-4-scaled.jpg)
+
 
 
 ## Related
