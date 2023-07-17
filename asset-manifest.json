@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alireza-Mak.github.io/redux-toolkit-projects/static/css/main.ccc50e65.css",
+    "main.js": "/Alireza-Mak.github.io/redux-toolkit-projects/static/js/main.4acfbc91.js",
+    "index.html": "/Alireza-Mak.github.io/redux-toolkit-projects/index.html",
+    "main.ccc50e65.css.map": "/Alireza-Mak.github.io/redux-toolkit-projects/static/css/main.ccc50e65.css.map",
+    "main.4acfbc91.js.map": "/Alireza-Mak.github.io/redux-toolkit-projects/static/js/main.4acfbc91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccc50e65.css",
+    "static/js/main.4acfbc91.js"
+  ]
+}
