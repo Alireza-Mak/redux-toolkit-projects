@@ -8,12 +8,11 @@ export interface RouteType {
   label: string;
 }
 type RoutesType = RouteType[];
-const url = 'https://alireza-mak.github.io/redux-toolkit-projects';
 export const routes: RoutesType = [
-  { label: 'Playlist', pathname: `${url}/`, content: <PlaylistPage /> },
-  { label: 'Car', pathname: `${url}/car`, content: <CarPage /> },
-  { label: 'Photo', pathname: `${url}/photo`, content: <PhotoPage /> },
-  { label: 'Media', pathname: `${url}/media`, content: <MediaPage /> },
+  { label: 'Playlist', pathname: '/', content: <PlaylistPage /> },
+  { label: 'Car', pathname: '/car', content: <CarPage /> },
+  { label: 'Photo', pathname: '/photo', content: <PhotoPage /> },
+  { label: 'Media', pathname: '/media', content: <MediaPage /> },
 ];
 
 const Routes = () => {

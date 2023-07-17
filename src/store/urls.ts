@@ -1,2 +1,2 @@
-const url = 'https://alireza-mak.github.io/database/db.json';
+const url = 'http://localhost:3001';
 export default url;
