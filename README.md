@@ -1,46 +1,105 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hi, I'm Alireza! 👋
 
-## Available Scripts
 
-In the project directory, you can run:
+## 🚀 About Me
+I'm a front end developer with 3 year exprience...
 
-### `npm start`
+# About the Project: Redux Toolkit Projects
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This project showcases the integration of Redux Toolkit, Tailwind CSS, TypeScript, API functionality, CRUD operations, db.json server, and a diverse range of React and Redux features. By leveraging these technologies and tools, the project achieves an efficient and maintainable codebase while delivering an enhanced user experience.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The combination of Redux Toolkit and TypeScript streamlines the state management process, reducing boilerplate and improving code quality. Tailwind CSS empowers developers to rapidly style the application by providing a vast array of reusable components and utility classes.
 
-### `npm test`
+The integration of API functionality enables seamless communication with backend services, allowing the application to perform essential CRUD operations on data. Leveraging the db.json server provides a lightweight, yet effective, database solution for development purposes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The project's utilization of various React and Redux features, from basic to advanced, demonstrates a comprehensive understanding of these libraries. Actions, reducers, selectors, middleware, and async operations are employed to handle complex application logic.
 
-### `npm run build`
+The presence of reusable components, such as buttons, panels, and a loading skeleton, showcases a commitment to code reusability and consistent user interface design.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Overall, this project exemplifies the utilization of Redux Toolkit, Tailwind CSS, TypeScript, API integration, CRUD operations, db.json server, and diverse React and Redux features. Through this combination, the project delivers an efficient, scalable, and visually appealing web application with an enhanced user experience.
+## Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Client:** React, Redux-toolkit, Typscript, Tailwind scss
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Server:** webpack (Node)
 
-### `npm run eject`
+**Database:json Server
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠 Skills
+React, Redux, Redux-toolkit, Typescript, Javascript, HTML, CSS, Webpack...
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Support
 
-## Learn More
+For support, email Info@alirezamak.com.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Demo
+
+https://alireza-mak.github.io/redux-tookit-pprojects
+
+
+## Authors
+
+- [@Alireza-Mak](https://www.github.com/Alireza-Mak)
+
+## Color Reference
+
+| Color                            | Hex                                                                |
+| -----------------              | ------------------------------------------------------------------       |
+| Navbar background: | ![#1F2937](https://via.placeholder.com/10/1F2937?text=+) #4A4A4A |
+| Logo color 1: | ![#54277A](https://via.placeholder.com/10/54277A?text=+) #54277A |
+| Logo color 2: | ![#7D1D21](https://via.placeholder.com/10/7D1D21?text=+) #7D1D21 |
+
+
+
+## Installation
+
+Install my-project:
+
+```bash
+  git clone https://github.com/Alireza-Mak/redux-tookit-pprojects.git
+```
+```bash
+  cd reusable-components
+```
+
+```bash
+  npm install
+```
+
+```bash
+  npm run start
+```
+
+```bash
+  npm run server
+```
+
+    
+![Logo](https://alirezamak.com/wp-content/uploads/fav-icon-final-e1685159385524.png)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alirezamak.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-mak/)
+[![twitter](https://img.shields.io/badge/email-1DA1F2?style=for-the-badge&logo=mail.Ru&logoColor=white)](info@alirezamak.com)
+
+
+## Screenshots
+
+![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-1-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-2-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-3-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-4-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-5-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-6-scaled.jpg)
+
+
+## Related
+
+Here is a related project:
+
+[Drag and Drop-intermediate](https://github.com/Alireza-Mak/reusable-components)

@@ -1,0 +1,49 @@
+###GET
+GET http://localhost:3001/cars HTTP/1.1
+Content-Type: application/json
+
+
+###POST
+POST http://localhost:3001/cars HTTP/1.1
+Content-Type: application/json
+
+{"brand":"BMW"}
+
+
+### EDIT
+PUT http://localhost:3001/cars/1 HTTP/1.1
+Content-Type: application/json
+
+{"favorite":true}
+
+
+### DELETE
+DELETE http://localhost:3001/cars/2 HTTP/1.1
+Content-Type: application/json
+
+
+
+
+
+###
+Get http://localhost:3001/car HTTP/1.1
+Content-Type: application/json
+
+
+
+
+
+###
+DELETE http://localhost:3001/car/0 HTTP/1.1
+Content-Type: application/json
+
+
+###
+GET https://api.unsplash.com/search/photos/?client_id=TXtYKveQPHbS3Pjhpz4_4On-pfFvEGmd2pF-yVGzDdM&query=luxury cars
+Content-Type: application/json
+
+
+###
+GET http://localhost:3001/users HTTP/1.1
+Content-Type: application/json
+

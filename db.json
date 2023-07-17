@@ -1,0 +1,152 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tesla",
+      "model": "Model 3",
+      "description": "The Tesla Model 3 is an all-electric compact sedan with impressive range and advanced technology. It offers a sleek design, quick acceleration, and a spacious interior.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2019-tesla-model3-lt-airporthero-low-101-1587061146.jpg?crop=1.00xw:0.752xh;0,0.190xh&resize=1200:*",
+      "companyUrl": "https://www.tesla.com/",
+      "dateCreated": 2022,
+      "favorite": true
+    },
+    {
+      "id": 2,
+      "brand": "Porsche",
+      "model": "911 Carrera",
+      "description": "The Porsche 911 Carrera is a high-performance sports car known for its iconic design and exhilarating driving experience. It combines power, precision, and luxury.",
+      "imageUrl": "https://www.cnet.com/a/img/resize/19128d11524dc51bcc72e04065d7e6db475378ad/hub/2022/03/03/867996c8-eba4-43e6-8012-8da0c6b17014/dsc01879.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "companyUrl": "https://www.porsche.com/",
+      "dateCreated": 2022,
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "brand": "Mercedes-Benz",
+      "model": "S-Class",
+      "description": "The Mercedes-Benz S-Class is a luxury sedan with cutting-edge technology, elegant design, and exceptional comfort. It represents the pinnacle of automotive engineering and craftsmanship.",
+      "imageUrl": "https://i.gaw.to/vehicles/photos/40/23/402332-2021-mercedes-benz-s-class.jpg",
+      "companyUrl": "https://www.mercedes-benz.com/",
+      "dateCreated": 2021,
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "brand": "BMW",
+      "model": "5 Series",
+      "description": "The BMW 5 Series is a premium midsize sedan that strikes a perfect balance between performance and luxury. It offers advanced features, a refined interior, and dynamic driving dynamics.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2021-bmw-540i-xdrive-370-edit-1608066218.jpg?crop=0.572xw:0.429xh;0.0881xw,0.504xh&resize=1200:*",
+      "companyUrl": "https://www.bmw.com/",
+      "dateCreated": 2022,
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "brand": "Audi",
+      "model": "A6",
+      "description": "The Audi A6 is a sophisticated executive sedan with a stylish design, advanced technology, and a comfortable cabin. It delivers a smooth and refined driving experience.",
+      "imageUrl": "https://cdn.carbuzz.com/gallery-images/1600/551000/100/551182.jpg",
+      "companyUrl": "https://www.audi.com/",
+      "dateCreated": 2021,
+      "favorite": false
+    },
+    {
+      "id": 6,
+      "brand": "Lamborghini",
+      "model": "Aventador",
+      "description": "The Lamborghini Aventador is an extraordinary supercar that embodies power, performance, and striking design. It offers mind-blowing acceleration and an unforgettable driving experience.",
+      "imageUrl": "https://cdn.carbuzz.com/gallery-images/1600/977000/100/977195.jpg",
+      "companyUrl": "https://www.lamborghini.com/",
+      "dateCreated": 2022,
+      "favorite": false
+    },
+    {
+      "id": 7,
+      "brand": "Ferrari",
+      "model": "488 GTB",
+      "description": "The Ferrari 488 GTB is a stunning mid-engine sports car with a powerful V8 engine and aerodynamic design. It delivers exceptional performance and exhilarating driving dynamics.",
+      "imageUrl": "https://asphalt9.info/wp-content/uploads/2018/07/Ferrari-488-GTB.jpg",
+      "companyUrl": "https://www.ferrari.com/",
+      "dateCreated": 2021,
+      "favorite": false
+    },
+    {
+      "id": 8,
+      "brand": "Jaguar",
+      "model": "F-Type",
+      "description": "The Jaguar F-Type is a captivating sports car with a timeless design and thrilling performance. It combines elegant style, agile handling, and advanced technology.",
+      "imageUrl": "https://i.gaw.to/vehicles/photos/40/22/402290-2021-jaguar-f-type.jpg?1024x640",
+      "companyUrl": "https://www.jaguar.com/",
+      "dateCreated": 2022,
+      "favorite": false
+    },
+    {
+      "id": 9,
+      "brand": "Lexus",
+      "model": "LC",
+      "description": "The Lexus LC is a luxury coupe that offers a perfect blend of stunning design, refined craftsmanship, and exhilarating performance. It represents the pinnacle of Lexus engineering.",
+      "imageUrl": "https://www.motortrend.com/uploads/sites/5/2021/01/2021_Lexus_LC_500_Inspiration_Series_017.jpg",
+      "companyUrl": "https://www.lexus.com/",
+      "dateCreated": 2021,
+      "favorite": false
+    },
+    {
+      "id": 10,
+      "brand": "Land Rover",
+      "model": "Range Rover",
+      "description": "The Land Rover Range Rover is a premium SUV renowned for its luxury, capability, and iconic design. It delivers supreme comfort and off-road prowess.",
+      "imageUrl": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2022-Range-Rover-1001x565%20%281%29.jpg",
+      "companyUrl": "https://www.landrover.com/",
+      "dateCreated": 2022,
+      "favorite": false
+    }
+  ],
+  "car": {
+    "id": 1,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "description": "The Tesla Model 3 is an all-electric compact sedan with impressive range and advanced technology. It offers a sleek design, quick acceleration, and a spacious interior.",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2019-tesla-model3-lt-airporthero-low-101-1587061146.jpg?crop=1.00xw:0.752xh;0,0.190xh&resize=1200:*",
+    "companyUrl": "https://www.tesla.com/",
+    "dateCreated": 2022,
+    "favorite": true
+  },
+  "users": [
+    {
+      "userName": "Mafalda.Huels",
+      "id": 1
+    },
+    {
+      "userName": "Minnie.Sanford",
+      "id": 2
+    },
+    {
+      "userName": "Shana39",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "albumName": "Gorgeous Steel Bacon",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "albumName": "Elegant Steel Bike",
+      "id": 2
+    }
+  ],
+  "pictures": [
+    {
+      "albumId": 1,
+      "pictureUrl": "https://picsum.photos/seed/l9DibMQ/150/150",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "pictureUrl": "https://loremflickr.com/150/150?lock=334268561620992",
+      "id": 2
+    }
+  ]
+}
